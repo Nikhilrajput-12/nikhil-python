@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#content {
+    margin: 25px;
+}
+
+.important {
+    color: #611f1f;
+}
